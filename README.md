@@ -1,4 +1,4 @@
-# BookWormy🪱-python-web-scraper-for-books
+# BookWormy🪱-python web scraper for books
 
 # Disclamer! All code is written by me, a software student with no prior experiance! This code isn't going to be safe,optimized or logical in many ways,no need to shame me for that. Write issues only with the intend of helping report/fix bugs, suggest features,etc. If you like what you see here and want to use it please do it at your own risk, though i'm going to be glad to provide my asistance. 
 
